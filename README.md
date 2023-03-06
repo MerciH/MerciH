@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Merci 
 - 👀 I’m interested in software development (full-stack)
 - 🌱 I’m currently learning back-end (Django, API,...). I am also a computer science undergraduate student.
-- 💞️ I’m looking to collaborate on projects that involves developing appliactions, but am also open to challenges.
+- 💞️ I’m looking to collaborate on projects that involves developing appliactionsand websites, but am also open to challenges.
 - 📫 reach me on mercihabs33@gmail.com
 
 <!---
