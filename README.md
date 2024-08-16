@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Merci 
-- 👀 I’m interested in software development (full-stack)
-- 🌱 I’m currently learning machine learning. I am also a computer science undergraduate student.
-- 💞️ I’m looking to collaborate on projects that involve developing applications and websites but am also open to challenges.
+- 👀 I do software development (full-stack)
+- 🌱 I’m currently learning data analytics. I am also a computer science undergraduate student at University of Aizu.
+- 💞️ I’m looking to collaborate on cool projects that involve developing applications, websites, ... like anything :)).
 - 📫 reach me on mercihabs33@gmail.com
 
 <!---
