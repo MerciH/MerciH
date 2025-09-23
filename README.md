@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Merci 
-- 👀 I do software development (full-stack)
-- 🌱 I’m currently learning data analytics. I am also a computer science undergraduate student at University of Aizu.
-- 💞️ I’m looking to collaborate on cool projects that involve developing applications, websites, ... like anything :)).
+- 👀 I do software development (full-stack) but love back-end more
+- 🌱 I can do data analysis and visualization using tools like Google Looker Studio and Google Analytics.
+- 💞️ I’m looking to collaborate on cool projects that involve developing applications, AI, ... like anything worth my time :)).
 - 📫 reach me on mercihabs33@gmail.com
 
 <!---
